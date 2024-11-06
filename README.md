@@ -52,7 +52,7 @@
    </a>
    &emsp;
   <a href="https://www.typescriptlang.org/" target="_blank"> 
-     <img alt="TypeScripte" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
+     <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square">
    </a>
    &emsp;
   <a href="https://nodejs.org" target="_blank"> 
